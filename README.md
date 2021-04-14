@@ -21,18 +21,16 @@ having a simple case.
 
 ## Schematics:
 ![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SCH_SO_V1.1.png "Sand Ortho V1.1 Schematic")
-![alt text]()
 
 ## Board Layout:
 ![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/PCB_FRONT_SOV1.1.png "Board Layout (Front 1)")
+![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/PCB_BACK1_SO_V1.1.png "Board Layout (Front 2)")
 ![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/PCB_BACK_SO_V1.1.png "Board Layout (Back 0)")
-![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/PCB_BACK1_SO_V1.1.png "Board Layout (Back 1)")
 ![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/PCB_BACKCLOSE_SO_V1.1.png "Board Close Up (Back)")
 
 ## Pictures:
-![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SHOT1_V1.1.png "Sand Ortho Shot 1")
 ![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SHOT2_V1.1.png "Sand Ortho Shot 2")
-
+![alt text](https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SHOT1_V1.1.png "Sand Ortho Shot 1")
 
 # [ Version History ]
 ## QMKDEVBRD
