@@ -14,6 +14,12 @@ having a simple case.
 -USB-C Connector  
 -Sturdy Construction  
 
+# [ Pictures ]
+## Renders:
+![RENDER_SIDE]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_SIDE_FULL_RENDER.png}  
+![RENDER BACK]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_BOT_RENDER.png}  
+
+
 # [ Version History ]
 ## QMKDEVBRD
 Prior to getting larger and more costly prototypes made I opted to 
