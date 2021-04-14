@@ -5,14 +5,14 @@ firmware. The goal of this project was to design a keyboard which is compact and
 having a simple case.
 
 # [ Design Requirements ]
-[X] Compact/Portable
-[X] Cherry MX Compatible 
-[X] Ortholinear QWERTY (Grid) Layout with 2U spacebar
-[X] No visible components on top side of board
-[X] minimize trace presence on visible portions of top PCB
-[X] Sandwich style case PCB|ACRYLIC|PCB held together with M3 Screws
-[X] USB-C Connector
-[X] Sturdy Construction
+Compact/Portable  
+Cherry MX Compatible  
+Ortholinear QWERTY (Grid) Layout with 2U spacebar  
+No visible components on top side of board  
+minimize trace presence on visible portions of top PCB  
+Sandwich style case PCB|ACRYLIC|PCB held together with M3 Screws  
+USB-C Connector  
+Sturdy Construction  
 
 # [ Version History ]
 ## QMKDEVBRD
