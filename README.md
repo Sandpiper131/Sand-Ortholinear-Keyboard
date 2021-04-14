@@ -16,8 +16,8 @@ having a simple case.
 
 # [ Pictures ]
 ## Renders:
-![RENDER_SIDE]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_SIDE_FULL_RENDER.png}  
-![RENDER BACK]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_BOT_RENDER.png}  
+![alt text]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_SIDE_FULL_RENDER.png "sand ortho render (side)"}  
+![alt text]{https://github.com/Sandpiper131/Sand-Ortholinear-Keyboard/blob/main/V1.1/FIGS/SO_BOT_RENDER.png "sand ortho render (bottom)"}  
 
 
 # [ Version History ]
