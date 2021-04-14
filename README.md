@@ -1,12 +1,12 @@
-#[Description]
-#-------------------------------------------------------------------------------------------
+# [Description]
+# -------------------------------------------------------------------------------------------
 The Sand Ortholinear is a QWERTY style keyboard with 47 individually programmable keys. The
 keyboard is powered by an ATMEGA32U4 microcontroller running the QMK open source keyboard
 firmware. The goal of this project was to design a keyboard which is compact and durable while
 having a simple case.
 
-#[Design Requirements]
-#-------------------------------------------------------------------------------------------
+# [Design Requirements]
+# -------------------------------------------------------------------------------------------
 -Compact/Portable
 -Cherry MX Compatible 
 -Ortholinear QWERTY (Grid) Layout with 2U spacebar
@@ -16,9 +16,9 @@ having a simple case.
 -USB-C Connector
 -Sturdy Construction
 
-#[Version History]
-#-------------------------------------------------------------------------------------------
-##[QMKDEVBRD]
+# [Version History]
+# -------------------------------------------------------------------------------------------
+## [QMKDEVBRD]
 Prior to getting larger and more costly prototypes made I opted to 
 design a smaller keypad which uses a simplified circuit compared
 to the one I intend to put in the final keyboard. In addition to the basic
@@ -29,7 +29,7 @@ a developemnt tool to contribute to the QMK Firmware project in the future.
 The QMK Development Board functions as expected and works flawlessly with 
 the QMK firmware. 
 
-##[Sand v1.0]
+## [Sand v1.0]
 With my initial circuit verified to be in working order, I set out to design
 the full size ortholinear keyboard. In refining the design I replaced the 
 micro USB present in my initial design with the more modern, and reversible,
@@ -54,7 +54,7 @@ the keyboard pcb and a backplate also made of FR4 (Material PCB is made of) all 
 with M3 bolts and nuts. The resulting keyboard exceeded my expectations and is very
 rigid and low-profile and provides ample protection to the PCB from dust and debris.
 
-##[Sand v1.1]
+## [Sand v1.1]
 As a revision to my original board I added a much larger crystal oscillator that is
 easy to solder and corrected flaws in my USB circuit. I opted not to change the diodes
 as this was a minor revision and I already had hundreds on hand.
