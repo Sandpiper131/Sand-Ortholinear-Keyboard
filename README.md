@@ -1,12 +1,10 @@
 # [Description]
-# -------------------------------------------------------------------------------------------
 The Sand Ortholinear is a QWERTY style keyboard with 47 individually programmable keys. The
 keyboard is powered by an ATMEGA32U4 microcontroller running the QMK open source keyboard
 firmware. The goal of this project was to design a keyboard which is compact and durable while
 having a simple case.
 
 # [Design Requirements]
-# -------------------------------------------------------------------------------------------
 -Compact/Portable
 -Cherry MX Compatible 
 -Ortholinear QWERTY (Grid) Layout with 2U spacebar
@@ -17,7 +15,6 @@ having a simple case.
 -Sturdy Construction
 
 # [Version History]
-# -------------------------------------------------------------------------------------------
 ## [QMKDEVBRD]
 Prior to getting larger and more costly prototypes made I opted to 
 design a smaller keypad which uses a simplified circuit compared
