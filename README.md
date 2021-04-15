@@ -34,42 +34,29 @@ having a simple case.
 
 # [ Version History ]
 ## QMKDEVBRD
-Prior to getting larger and more costly prototypes made I opted to 
-design a smaller keypad which uses a simplified circuit compared
-to the one I intend to put in the final keyboard. In addition to the basic
-microcontroller circuit with ISP and USB connectivity I also opted to 
-include a prototyping area with breakouts for unused uC pins. Doing so 
-makes this project not only a prototype for my final keyboard design, but also
-a developemnt tool to contribute to the QMK Firmware project in the future.
+The QMK Development Board is a 3x3 Cherry MX-Compatible keypad used to
+prototype a keyboard circuit prior to building a larger and more expensive keyboard. 
+In addition to the basic microcontroller circuit with ISP and USB connectivity a 
+prototyping area with breakouts for unused uC pins is included. Doing so 
+makes this board not only a prototype for a final keyboard design, but also
+a useful tool for contributing to the QMK Firmware project in the future.
 The QMK Development Board functions as expected and works flawlessly with 
 the QMK firmware. 
 
 ## Sand v1.0
-With my initial circuit verified to be in working order, I set out to design
-the full size ortholinear keyboard. In refining the design I replaced the 
-micro USB present in my initial design with the more modern, and reversible,
-USB-C Connector. In doing so I failed to realize the need for both D- and D+ 
-lines to be shorted to its respective pairing in addition to resistors  
-used by the host device to determine orientation of the connector; a more 
-complicated connector than I had first imagined. Additionally I added a PTC 
-fuse and a schottkey diode to prevent damage caused by potential excessive 
-current draw or reverse voltage scenario. Disatisfied with how large the 
-diodes were on the prototype, I chose smaller diodes, too small in fact. 
-Building these by hand proved problematic with the diodes as they would 
-create weird feedback in the keyboard matrix if even one was soldered
-incorrectly. I made the same mistake with the crystal oscillator and had to 
-tack on a through hole can to the pads as I was unable to effectively solder 
-the smaller oscillator. In a future design I will avoid using such small parts 
-for hand soldering.
+Error in USB-C Circuit, no resistors for orientation, D+/D- not shorted 
+to respective pair; USB connectivity non-functional. Added protection
+circuit with Schottkey Diode and PTC fuse. Diodes are too small and
+difficult to solder resulting in feedback in keyboard matrix. Crystal
+Oscillator is also too small and impossible to solder by hand; Resolved
+using a through hole crystal soldered onto pads. 
 
-Changing focus to the mechanical/visual design of the keyboard I opted for a simple
-yet elegant PCB and Acrylic sandwich. Having discovered green edged acrylic while 
-looking for potential materials I began to design a piece of acrylic to fit between
-the keyboard pcb and a backplate also made of FR4 (Material PCB is made of) all held together
-with M3 bolts and nuts. The resulting keyboard exceeded my expectations and is very
-rigid and low-profile and provides ample protection to the PCB from dust and debris.
+Changing focus to the mechanical/visual design of the keyboard is a simple
+yet elegant PCB and Acrylic sandwich all held togetherwith M3 bolts and nuts.  
+The resulting keyboard exceeded expectations and is very rigid, low-profile,
+and provides ample protection from dust and debris.
 
 ## Sand v1.1
-As a revision to my original board I added a much larger crystal oscillator that is
-easy to solder and corrected flaws in my USB circuit. I opted not to change the diodes
-as this was a minor revision and I already had hundreds on hand.
+Added larger surface mount crystal oscillator and corrected above mentioned
+flaws in the USB-C circuit. Opted not to change the diodes
+as this was a minor revision and the part had already been ordered in excess.
